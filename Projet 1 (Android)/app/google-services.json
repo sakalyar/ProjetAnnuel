@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150564741209",
+    "project_id": "birdswatcher-74d92",
+    "storage_bucket": "birdswatcher-74d92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150564741209:android:1cc3a47eeccfd2a2e35148",
+        "android_client_info": {
+          "package_name": "com.example.birdsforms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150564741209-25d9e8b8d648n56db3v2vb3nvhi2nd9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBExQ-TPBs_p1agUyiFnOqPnV-r0F7sg6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150564741209-25d9e8b8d648n56db3v2vb3nvhi2nd9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

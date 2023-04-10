@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BirdsForms</string>
+    <string name="email">Veillez entrer votre email</string>
+    <string name="password">Veuillez entrer votre mot de passe</string>
+    <string name="chooseBirds">Choisissez au moins un oiseau</string>
+    <string name="birdsNumber">Veuillez entrer le nombre d\'oiseaux</string>
+    <string name="redBookCheck">Est-ce qu\'il y a des oiseaux engendrés notés ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="restore">réstaurer formulaire</string>
+    <string name="delete">Effacer</string>
+    <string name="send">envoyer</string>
+    <string name="save">sauvegarder</string>
+</resources>

@@ -1,0 +1,2 @@
+pour exécuter sur local, ouvrir le terminal et exécuter la commande node index.js
+pour exécuter en ligne (capella), soit remplacer le contenu de index.js par le contenu de capella-create.js, soit exécuter capella-create.js  directement.
