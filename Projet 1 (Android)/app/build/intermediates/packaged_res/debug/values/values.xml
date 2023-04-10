@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">BirdsForms</string>
+    <string name="birdsNumber">Veuillez entrer le nombre d\'oiseaux</string>
+    <string name="chooseBirds">Choisissez au moins un oiseau</string>
+    <string name="default_web_client_id" translatable="false">150564741209-25d9e8b8d648n56db3v2vb3nvhi2nd9m.apps.googleusercontent.com</string>
+    <string name="delete">Effacer</string>
+    <string name="email">Veillez entrer votre email</string>
+    <string name="gcm_defaultSenderId" translatable="false">150564741209</string>
+    <string name="google_api_key" translatable="false">AIzaSyBExQ-TPBs_p1agUyiFnOqPnV-r0F7sg6A</string>
+    <string name="google_app_id" translatable="false">1:150564741209:android:1cc3a47eeccfd2a2e35148</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBExQ-TPBs_p1agUyiFnOqPnV-r0F7sg6A</string>
+    <string name="google_storage_bucket" translatable="false">birdswatcher-74d92.appspot.com</string>
+    <string name="no">Non</string>
+    <string name="password">Veuillez entrer votre mot de passe</string>
+    <string name="project_id" translatable="false">birdswatcher-74d92</string>
+    <string name="redBookCheck">Est-ce qu\'il y a des oiseaux engendrés notés ?</string>
+    <string name="restore">réstaurer formulaire</string>
+    <string name="save">sauvegarder</string>
+    <string name="send">envoyer</string>
+    <string name="yes">Oui</string>
+    <style name="Theme.BirdsForms" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

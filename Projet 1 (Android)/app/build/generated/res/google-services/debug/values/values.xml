@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">150564741209-25d9e8b8d648n56db3v2vb3nvhi2nd9m.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">150564741209</string>
+    <string name="google_api_key" translatable="false">AIzaSyBExQ-TPBs_p1agUyiFnOqPnV-r0F7sg6A</string>
+    <string name="google_app_id" translatable="false">1:150564741209:android:1cc3a47eeccfd2a2e35148</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBExQ-TPBs_p1agUyiFnOqPnV-r0F7sg6A</string>
+    <string name="google_storage_bucket" translatable="false">birdswatcher-74d92.appspot.com</string>
+    <string name="project_id" translatable="false">birdswatcher-74d92</string>
+</resources>
